@@ -9,14 +9,14 @@
       "title": "Dynamic Duo",
       "volume": "1",
       "groups": {
-     "<EMDOOD>": "/proxy/api/imgur/chapter/<ZbfGoTS>/"},
+     "<EMDOOD>": "https://imgur.com/a/ZbfGoTS"},
       "last_updated": "1677657600"
     },
     "2": {
       "title": "What is Ghoul Hunting?",
       "volume": "1",
       "groups": {
-      "<EMDOOD>": "/proxy/api/imgur/chapter/<DU0bffM>/"},
+      "<EMDOOD>": "https://imgur.com/a/DU0bffM/"},
       "last_updated": "1677744000"
     }
   }
