@@ -1,1 +1,21 @@
-
+{
+  "title": "Moonlight",
+  "description": "This is a fun Action, Comedy, Slice-of-Life, manga about what these girls do on their time off from work. Answer? They hunt Ghouls! Ghouls are all forms of Paranormal activity that occur throughout this world.\r\n\r\n\n\nPlease keep in mind that these are just the very first drafts of the manga, everything is subject to change for the final and will see multiple revisions so, bare that in mind.\r\n\r\n\n\nPlease refrain from reposting or re-uploading these chapters. They are completely free for everyone to view HERE. \r\n\r\nThanks!\n\nIf you like these and want to support me, please consider dropping me a tip over on my Ko-Fi (https://ko-fi.com/ericmartindood)",
+  "artist": "Eric Martin",
+  "author": "Eric Martin",
+  "cover": "https://imgur.com/dgQoBJw",
+  "chapters": {
+    "1": {
+      "title": "Dynamic Duo",
+      "volume": "1",
+      "groups": {},
+      "last_updated": "1677657600"
+    },
+    "2": {
+      "title": "What is Ghoul Hunting?",
+      "volume": "1",
+      "groups": {},
+      "last_updated": "1677744000"
+    }
+  }
+}
