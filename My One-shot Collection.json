@@ -4,5 +4,196 @@
   "artist": "ericmartinDOOD",
   "author": "ericmartinDOOD",
   "cover": "https://i.imgur.com/V0tTVXa.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "------Fairytale Retellings-------",
+      "volume": "1",
+      "last_updated": "1679602783",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "1": {
+      "title": "Lady Red (Little Red Ridding Hood)",
+      "volume": "1",
+      "last_updated": "1679602843",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "2": {
+      "title": "Cinder Queen (Cinderella)",
+      "volume": "1",
+      "last_updated": "1679602879",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "3": {
+      "title": "------2-Page Stories-------",
+      "volume": "1",
+      "last_updated": "1679602913",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "4": {
+      "title": "Alice At The Casino",
+      "volume": "1",
+      "last_updated": "1679602999",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "5": {
+      "title": "Dangerous",
+      "volume": "1",
+      "last_updated": "1679603036",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "6": {
+      "title": "Misunderstanding",
+      "volume": "1",
+      "last_updated": "1679603047",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "7": {
+      "title": "The Seeds We Sow",
+      "volume": "1",
+      "last_updated": "1679603063",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "8": {
+      "title": "-----Muscle+Mass Universe----",
+      "volume": "1",
+      "last_updated": "1679603092",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "9": {
+      "title": "Growing Pains to Holy Gains",
+      "volume": "1",
+      "last_updated": "1679603137",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "10": {
+      "title": "Fitness Inferno - Tacos, The Great Motivator",
+      "volume": "1",
+      "last_updated": "1679603193",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "11": {
+      "title": "Fitness Inferno - First Impressions...?",
+      "volume": "1",
+      "last_updated": "1679603314",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "12": {
+      "title": "Fitness Inferno - There's No Place Like Home...No Really Go home",
+      "volume": "1",
+      "last_updated": "1679603336",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "13": {
+      "title": "Fitness Inferno - Bianca's Workout Routine #1",
+      "volume": "1",
+      "last_updated": "1679603391",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "14": {
+      "title": "Fitness Inferno - Birth of A Rivalry!",
+      "volume": "1",
+      "last_updated": "1679603417",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "15": {
+      "title": "Fitness Inferno - Perfect Equational Protein Cake",
+      "volume": "1",
+      "last_updated": "1679603456",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "16": {
+      "title": "Holy Flex - How to Holy Flex",
+      "volume": "1",
+      "last_updated": "1679603509",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "17": {
+      "title": "-----Random, Because I Felt like it Stories------",
+      "volume": "1",
+      "last_updated": "1679603555",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    },
+    "18": {
+      "title": "Girls With Icky Things - Rat vs. Spider",
+      "volume": "1",
+      "last_updated": "1679603589",
+      "groups": {
+        "": [
+          ""
+        ]
+      }
+    }
+  }
 }
